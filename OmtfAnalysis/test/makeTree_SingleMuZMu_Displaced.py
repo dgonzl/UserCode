@@ -30,7 +30,8 @@ process.source = cms.Source("PoolSource",
 			        #'root://cms-xrd-global.cern.ch//store/data/Run2022B/SingleMuon/RAW-RECO/ZMu-PromptReco-v1/000/355/558/00000/59b3ee22-5304-4dd0-bd4d-16d2b659c964.root'	
                                 #'root://cmsxrootd-kit.gridka.de:1094//store/data/Run2022B/SingleMuon/RAW-RECO/ZMu-PromptReco-v1/000/355/100/00000/672cc5a4-0957-45c3-a46a-a5e06d3a2e50.root'				
 				#'file:/eos/user/a/almuhamm/OMTF_UW/Simulated_Samples/ForMyStudy/Qm_4thApril/0000/SingleMu_OneOverPt_1_100_m_298.root'
-				'root://cms-xrd-global.cern.ch//store/mc/Run3Winter23Reco/DoubleMuon_Pt-1To1000_gun/GEN-SIM-RECO/126X_mcRun3_2023_forPU65_v1-v2/2560000/006cd832-bf41-4895-a97c-81ac6bbab7b9.root'
+				#'root://cms-xrd-global.cern.ch//store/mc/Run3Winter23Reco/DoubleMuon_Pt-1To1000_gun/GEN-SIM-RECO/126X_mcRun3_2023_forPU65_v1-v2/2560000/006cd832-bf41-4895-a97c-81ac6bbab7b9.root'
+                                'root://cms-xrd-global.cern.ch//store/data/Run2023B/Muon1/RAW-RECO/ZMu-PromptReco-v1/000/366/469/00000/70d9986d-9df0-46c8-b6be-9d96a8113ccc.root'
   
 
 ),
